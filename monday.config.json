@@ -1,0 +1,10 @@
+{
+  "release_board_id": "18413597245",
+  "release_item_name_template": "v{version}",
+  "columns": {
+    "version": "name",
+    "date": "date_mm3fr1gf",
+    "feature_ids": "dropdown_mm3fe5vh",
+    "changelog": "text_mm3fa5vv"
+  }
+}
